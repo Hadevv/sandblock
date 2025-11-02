@@ -1,0 +1,10 @@
+{
+  "item.tutorialmod.bismuth": "Metal",
+  "item.tutorialmod.raw_bismuth": "Metal brut",
+
+  "block.tutorialmod.bismuth_block": "Bloc de métal",
+  "block.tutorialmod.bismuth_ore": "Minerai de métal",
+
+  "creativetab.tutorialmod.bismuth_items": "Objets en métal",
+  "creativetab.tutorialmod.bismuth_blocks": "Blocs de métal"
+}
