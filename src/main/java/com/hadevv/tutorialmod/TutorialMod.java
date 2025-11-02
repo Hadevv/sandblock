@@ -1,4 +1,4 @@
-package net.kaupenjoe.tutorialmod;
+package com.hadevv.tutorialmod;
 
 import org.slf4j.Logger;
 
