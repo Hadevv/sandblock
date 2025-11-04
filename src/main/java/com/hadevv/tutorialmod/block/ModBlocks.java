@@ -39,6 +39,13 @@ public class ModBlocks {
                     )
             ));
 
+    public static final DeferredBlock<Block> MAGIC_BLOCK = registerBlock("magic_block",
+            () -> new com.hadevv.tutorialmod.block.custom.MagicBlock(BlockBehaviour.Properties.of()
+                    .strength(2f)
+                    .requiresCorrectToolForDrops().sound(
+                            SoundType.AMETHYST
+                    )
+            ));
 
     private static < T extends Block> DeferredBlock<T> registerBlock(String name, java.util.function.Supplier<? extends T> blockSupplier) {
         DeferredBlock<T> block = BLOCKS.register(name, blockSupplier);
