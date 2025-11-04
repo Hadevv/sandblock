@@ -1,9 +1,15 @@
 {
   "item.tutorialmod.bismuth": "Metal",
   "item.tutorialmod.raw_bismuth": "Metal brut",
+  "item.tutorialmod.chisel" : "Ciseau",
+  "item.tutorialmod.radish": "Radis",
+  "item.tutorialmod.starlight_ashes": "Cendres d'étoiles",
+  "item.tutorialmod.frostfire_ice": "Glace de givre ardent",
 
   "block.tutorialmod.bismuth_block": "Bloc de métal",
   "block.tutorialmod.bismuth_ore": "Minerai de métal",
+  "block.tutorialmod.bismuth_deepslate_ore": "Minerai de métal en ardoise profonde",
+  "block.tutorialmod.magic_block": "Bloc magique",
 
   "creativetab.tutorialmod.bismuth_items": "Objets en métal",
   "creativetab.tutorialmod.bismuth_blocks": "Blocs de métal"
