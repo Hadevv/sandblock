@@ -11,6 +11,13 @@
   "block.tutorialmod.bismuth_deepslate_ore": "Bismuth Deepslate Ore",
   "block.tutorialmod.magic_block": "Magic Block",
 
+  "tooptip.tutorialmod.magic_block.tooltip" : "A block imbued with §9Magical§r properties.",
+  "tooltip.tutorialmod.radish.tooltip" : "A crunchy and refreshing vegetable.",
+
+  "tooltip.tutorialmod.chisel.shift_down": "This Item can chisel Blocks into Bricks",
+  "tooltip.tutorialmod.chisel": "Press §eShift§r for more Information",
+
+
   "creativetab.tutorialmod.bismuth_items": "Bismuth Items",
   "creativetab.tutorialmod.bismuth_blocks": "Bismuth Blocks"
 }

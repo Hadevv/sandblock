@@ -11,6 +11,10 @@
   "block.tutorialmod.bismuth_deepslate_ore": "Minerai de métal en ardoise profonde",
   "block.tutorialmod.magic_block": "Bloc magique",
 
+  "tooltip.tutorialmod.chisel.shift_down": "Cet objet peut ciseler des blocs en briques",
+  "tooltip.tutorialmod.chisel": "Appuyez sur §eShift§r pour plus d'informations",
+  "tooltip.tutorialmod.radish.tooltip" : "Un légume croquant et rafraîchissant.",
+
   "creativetab.tutorialmod.bismuth_items": "Objets en métal",
   "creativetab.tutorialmod.bismuth_blocks": "Blocs de métal"
 }
