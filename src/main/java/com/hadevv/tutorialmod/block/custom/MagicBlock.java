@@ -13,13 +13,14 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Items;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.level.block.Block;
+import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.phys.BlockHitResult;
 import org.jetbrains.annotations.NotNull;
 import java.util.List;
 
 public class MagicBlock extends Block {
-    public MagicBlock(Block.Properties properties) {
+    public MagicBlock(BlockBehaviour.Properties properties) {
         super(properties);
     }
 

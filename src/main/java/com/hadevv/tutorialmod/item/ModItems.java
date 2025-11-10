@@ -4,6 +4,7 @@ import com.hadevv.tutorialmod.TutorialMod;
 import com.hadevv.tutorialmod.item.custom.ChiselItem;
 import com.hadevv.tutorialmod.item.custom.FuelItem;
 import net.minecraft.network.chat.Component;
+import net.minecraft.world.item.BowItem;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.TooltipFlag;
 import net.neoforged.bus.api.IEventBus;
@@ -39,6 +40,9 @@ public class ModItems {
 
     public static final DeferredItem<Item> STARLIGHT_ASHES = ITEMS.register("starlight_ashes",
             () -> new Item(new Item.Properties()));
+
+    public static final DeferredItem<Item> KAUPEN_BOW = ITEMS .register("kaupen_bow",
+            () -> new BowItem(new Item.Properties().durability(500)));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(
